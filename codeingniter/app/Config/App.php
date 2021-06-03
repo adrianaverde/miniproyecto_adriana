@@ -23,10 +23,9 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost:8080/';
-
-	/**
-	 * --------------------------------------------------------------------------
+	public $baseURL = 'http://www.cerounodigital.com/btc04/adriana/codeingniter/public';
+	
+	 * ------------------------------------------------------------------------
 	 * Index File
 	 * --------------------------------------------------------------------------
 	 *
